@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "juLKggkX+0jq4xM9hBozDVdbNgVTw0fuE5Hi9R8Qx/cJcHIEx5z8r0IexhPOK0RH3xZdKYLBlKyfWxPAahTmBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alfar\\OneDrive\\Escritorio\\LilProject\\Ejemplos-20220916\\Lil Solution\\Lil.Products\\Lil.Products.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alfar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\alfar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alfar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\alfar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\alfar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\alfar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
